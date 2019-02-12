@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{E64B0127-434B-4AA1-B1C1-D58D00E76E43}|">
+  <MonoDevelop.Ide.ItemProperties.View PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAL/Persistence/PaiDal.cs">
+    <Files>
+      <File FileName="View/Pages/PaiLista.aspx" Line="9" Column="17" />
+      <File FileName="View/Pages/PaiLista.aspx.cs" Line="18" Column="27" />
+      <File FileName="View/Pages/PaiLista.aspx.designer.cs" Line="11" Column="66" />
+      <File FileName="View/menu.inc" Line="21" Column="66" />
+      <File FileName="DAL/Persistence/PaiDal.cs" Line="58" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
